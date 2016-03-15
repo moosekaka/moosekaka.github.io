@@ -4,6 +4,10 @@ layout: default
 # What is my research about?
 Developing a set of open-source computational tools in Python to perform *multi-scale* analysis of *structure-function* relationship in mitochondrial networks. My model organism is *Saccharomyces cerevisiae*, also known as budding yeast.
 
+<p align="center">
+<img src="{{site.github.url}}/images/website.jpg" width="500" />
+</p>
+
 ##Segmentation of mitochondrial networks from live yeast cells 3D images taken with a *spinning disk confocal* microscope.
 - This segmentation utilizes [MitoGraph](https://github.com/vianamp/MitoGraph.git), a C++ skeletonization and segmentation program developed by Matheus Viana. It has been fully validated in yeast cells \([Viana, Lim *et al.*](http://www.ncbi.nlm.nih.gov/pubmed/25640425)). 
 - The [pipeline](https://github.com/moosekaka/sweepython/blob/master/pipeline) folder contains modules used to map mitochondrial function to structure. This pipeline utilizes Mayavi's wrapped version of [VTK](http://www.vtk.org/) to take advantage of Pythonic coding syntax when working with VTK data.
@@ -21,9 +25,6 @@ Developing a set of open-source computational tools in Python to perform *multi-
 ##Analysis of mitochondrial functional asymmetry in mother and daughter yeast cells.
 - A [set of tools](https://github.com/moosekaka/sweepython/tree/master/mombud/vtk_viz) to interactively visualize the 3D mitochondrial skeleton and pick points to classify the cell as a mother or daughter region. This [Ipython notebook](https://github.com/moosekaka/sweepython/blob/master/mother%20bud%20analysis.ipynb) demonstrates an application of these tools to study how mitochondrial membrane potential (Δψ) is distributed differently between the mother and daughter cell.  
 
-<p align="center">
-<img src="{{site.github.url}}/images/mombud.png" width="300" />
-</p>
 
 ####Requirements
 If you wish to download the source code for the pipeline, you need to have these dependencies installed:

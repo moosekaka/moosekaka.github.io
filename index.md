@@ -1,8 +1,6 @@
 ---
 layout: default
-title: {{ site.name }}
 ---
-
 ##Introduction##
 
 I am a recent PhD graduate in Biomedical Engineering and am currently working as an Assistant Specialist in the lab of [Susanne Rafelski](http://www.rafelski.com/susanne/Home.html), [University of California, Irvine](http://uci.edu) where I did my doctoral research. This website is intended as a hub to showcase my research and production code.

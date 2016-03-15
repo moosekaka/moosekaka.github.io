@@ -22,7 +22,7 @@ Developing a set of open-source computational tools in Python to perform *multi-
 - A [set of tools](https://github.com/moosekaka/sweepython/tree/master/mombud/vtk_viz) to interactively visualize the 3D mitochondrial skeleton and pick points to classify the cell as a mother or daughter region. This [Ipython notebook](https://github.com/moosekaka/sweepython/blob/master/mother%20bud%20analysis.ipynb) demonstrates an application of these tools to study how mitochondrial membrane potential (Δψ) is distributed differently between the mother and daughter cell.  
 
 <p align="center">
-<img src="{{site.github.url}}/images/coors.png" width="300" />
+<img src="{{site.github.url}}/images/mombud.png" width="300" />
 </p>
 
 ####Requirements

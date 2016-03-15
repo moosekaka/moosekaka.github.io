@@ -1,12 +1,12 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Swee Lim's website and Github repo
+tagline:      Welcome, here you will find links to my research, code and bio.
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
+  name:       Swee Lim
   url:        http://moosekaka.github.io
 
 # Gems

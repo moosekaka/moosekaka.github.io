@@ -9,7 +9,7 @@ My PhD research was focused on creating a framework to study structure and funct
 
 My email and contact info are in my [github repo](https://github.com/moosekaka). My most active repository is [this one](https://github.com/moosekaka/sweepython).
 
-You can download a PDF of my thesis [here]({{ site.github.url }}/thesis/thesis.pdf).
+You can download a PDF of my thesis [here]({{ site.github.url }}/thesis/thesis.pdf). If you wish, you can also compile from source in Xetex [here](https://github.com/moosekaka/thesis).
 
 
 

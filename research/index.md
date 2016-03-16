@@ -15,7 +15,7 @@ Developing a set of open-source computational tools in Python to perform multi-s
 - The output data from the pipeline was 'munged' into a database using [`Pandas`](http://pandas.pydata.org/pandas-docs/stable/) before further calculations of various statistical and functional parameters.
 
 ## Modulation of mitochondrial function by altering carbon source growth conditions.
-- We modulated the metabolic state of the cell by altering the carbon source used during cell growth. This [notebook](https://github.com/moosekaka/sweepython/blob/master/o2_vr_dy_panel.ipynb) shows an example of how carbon source growth conditions alters oxygen consumption and mitochondrial membrane potential (Δψ).
+- We modulated the metabolic state of the cell by altering the carbon source used during cell growth. This [notebook](https://github.com/moosekaka/sweepython/blob/master/o2_vr_dy_panel.ipynb) shows an example of how carbon source growth conditions alters oxygen consumption and mitochondrial membrane potential (Δψ), which is a key parameter of cell bioenergetics.
 
 ## Investigating the link between structure of mitochondria and heterogeneity of mitochondrial membrane potential (Δψ).
 - We showed the non-random heterogeneous distribution of Δψ within a single mitochondrial tubule [example here](https://github.com/moosekaka/sweepython/tree/master/tubuleHet).

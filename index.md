@@ -7,7 +7,7 @@ I am a recent PhD graduate in Biomedical Engineering and am currently working as
 
 My PhD research was focused on creating a framework to study structure and function relationships in budding yeast. I implemented my project using mainly Python, together with commonly used scientific packages available in this language (such as Numpy, Scipy, Pandas etc.).  
 
-My email and contact info are in my [github repo](https://github.com/moosekaka). You can also download a zip archive of my codes, such as [this](https://github.com/moosekaka/sweepython).
+My email and contact info are in my [github repo](https://github.com/moosekaka). My most active repository is [this one](https://github.com/moosekaka/sweepython).
 
 You can download a PDF of my thesis [here]({{ site.github.url }}/thesis/thesis.pdf).
 

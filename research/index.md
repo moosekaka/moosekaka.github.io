@@ -6,7 +6,7 @@ layout: default
 Developing a set of open-source computational tools in Python to perform multi-scale analysis of structure-function relationship in mitochondrial networks. My model organism is *Saccharomyces cerevisiae*, also known as budding yeast.
 
 <p align="center">
-<img src="{{site.github.url}}/images/website.jpg" width="85%" />
+<img src="{{site.github.url}}/images/website.jpg" width="78%" />
 </p>
 
 ## Segmentation of mitochondrial networks from live yeast cells 3D images taken with a *spinning disk confocal* microscope.

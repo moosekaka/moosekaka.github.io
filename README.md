@@ -1,7 +1,4 @@
----
-layout: default
----
 
-## My website folder hosted on github
+## My website folder hosted on github.
 
 

@@ -7,7 +7,7 @@ I grew up in Kuala Lumpur, Malaysia and did my undergraduate at [Imperial Colleg
 
 Coming from an engineering background, I tend to take a practical approach to academic research. This means that I like to use modular tools that get the job done as quickly and correctly as possible. I prefer to utilize open source tools that result in [reproducible research](http://www.nature.com/news/reproducibility-1.17552).  
 
-I am also comfortable in interfacing with hardware (in my lab I am responsible for maintaining the proper functioning of the spinning disk confocal microscope platform). With my engineering background I am able to handle the electronics, mechanical and computational issues that regularly crop up in my project. 
+I am also comfortable in interfacing with hardware (in my lab I am responsible for maintaining the proper functioning of the spinning disk confocal microscope platform). With my engineering background I am able to handle the electronics, mechanical and computational issues that regularly crop up in my project.
 
 
 <!-- **Bold** (`Ctrl+B`) and *Italic* (`Ctrl+I`)
